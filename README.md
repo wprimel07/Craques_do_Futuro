@@ -9,8 +9,8 @@ Projeto prático de modelagem e implementação de banco de dados relacional uti
 ## 📋 Sobre o Projeto
 
 O sistema foi desenvolvido para gerenciar uma escolinha de futebol, incluindo:
-* Cadastro de **criancas** (Usuários) e **Administradores**.
-* Gestão de **campeonatos** e suas categorias.
+* Cadastro de **Criancas** (Usuários) e **Administradores**.
+* Gestão de **Campeonatos** e suas categorias.
 * Controle de **Reservas** (Check-in/Check-out e valores).
 * Sistema de **Avaliações** das criancas.
 * Associação de imagens das competicoes.
@@ -34,7 +34,7 @@ Para rodar o projeto em sua máquina (MySQL Workbench ou compatível):
 
 1.  **Clone o repositório:**
     ```bash
-    git clone ()
+    git clone (https://github.com/wprimel07/Craques_do_Futuro/tree/master)
     ```
 2.  **Abra os arquivos** no seu editor SQL.
 3.  **Execute na ordem numérica:**
